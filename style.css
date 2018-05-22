@@ -1,0 +1,48 @@
+  body {
+      position: relative; 
+        font-family: "Times New Roman", Times, serif;
+  }
+  .navbar-inverse{
+    background-color:#3333ff!important;
+ 
+  }
+
+
+
+.navbar-inverse .navbar-nav>li>a {
+    color: black;
+}
+.aboutme{
+	font-size: 20px;
+}
+.att{
+  float: right;
+}
+
+.prjct1{
+ float: center;
+
+}
+
+.prjct2{
+float: center; 
+}
+.prjct3{
+float:center;
+}
+#technology{
+	background-color: #eee
+}
+#contact{
+	background-color: #eee
+}
+
+.page-header {
+     border-bottom: 1px solid black !important;
+}
+
+.icon-background{
+	color:#66e0ff;
+}
+
+.nostyle { color: inherit; } 
